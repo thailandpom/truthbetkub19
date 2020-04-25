@@ -1,0 +1,61 @@
+.huay_home_box_header {
+  text-align: center;
+  font-size: 24px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.huay_home_box_content {
+  text-align: center;
+  font-size: 17px;
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+.huay_home_box_button {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: table-cell;
+  text-align: center;
+  font-size: 24px;
+  width: 279px;
+  line-height: 55px;
+  vertical-align: middle;
+  background-size: cover;
+  border-color: #fffbfb24;
+  border-radius: 25px;
+  text-shadow: 2px 2px 5px #141414;
+}
+
+#Huay-News {
+  font-size: 32px;
+}
+
+.news_more_btn {
+  font-size: 16px;
+  padding: 5px 30px;
+  border-radius: 25px;
+}
+
+#Why-We-Us-Header {
+  font-size: 36px;
+}
+#Why-We-Us-Content {
+  font-size: 18px;
+}
+
+#Announce-Web-Title {
+  font-size: 46px;
+}
+#Announce-Web-Sub-Title {
+  font-size: 24px;
+}
+#Announce-Web-Sub-Desc {
+  font-size: 18px;
+}
+
+.img-banner {
+  width: 700px;
+}

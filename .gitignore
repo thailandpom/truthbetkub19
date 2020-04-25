@@ -1,0 +1,30 @@
+
+# Created by https://www.gitignore.io/api/laravel
+# Edit at https://www.gitignore.io/?templates=laravel
+
+### Laravel ###
+/dependencies/vendor/
+/dependencies/node_modules/
+/dependencies/npm-debug.log
+/dependencies/yarn-error.log
+
+# Laravel 4 specific
+/dependencies/bootstrap/compiled.php
+/dependencies/app/storage/
+/dependencies/storage/logs/laravel.log
+
+# Laravel 5 & Lumen specific
+/dependencies/public/storage
+/dependencies/public/hot
+/dependencies/storage/*.key
+/dependencies/.env
+/dependencies/Homestead.yaml
+/dependencies/Homestead.json
+/.vagrant
+
+# End of https://www.gitignore.io/api/laravel
+
+/dependencies/storage/app/
+/dependencies/storage/framework/
+/dependencies/storage/logs/
+**/.DS_Store

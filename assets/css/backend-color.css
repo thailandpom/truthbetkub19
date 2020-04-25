@@ -1,0 +1,31 @@
+.bg-header-dark {
+  background-color: #ffffff !important;
+}
+#page-container.page-header-dark #page-header {
+  color: #cad4e7;
+  background-color: #ffffff;
+}
+.dataTables_filter {
+  text-align: right;
+}
+.icon-widget {
+  width: 50px;
+}
+.note-editable.card-block {
+  height: 350px;
+}
+.h-100vh {
+  height: 100vh;
+}
+.h-100 {
+  height: 100%;
+}
+.new-color {
+  background-color: #e04f1a;
+}
+.new-color:hover, .new-color:active, .new-color:focus, .new-color:focus-within, .new-color:visited {
+  background-color: #e04f1a !important;
+}
+table {
+  display: table !important;
+}

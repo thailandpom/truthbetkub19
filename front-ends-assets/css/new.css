@@ -1,0 +1,599 @@
+body {
+  background-color: #1e1d1b;
+  background-image: url('https://www.truthbetkub19.com/');
+  color: #fffbe5;
+  font-family: 'Sarabun';
+  font-size: 16px;
+}
+
+a {
+  color: #FFA12D;
+}
+
+a:visit {
+  color: #f5f5f5;
+}
+
+a:hover {
+  color: #FFBF2B;
+  text-decoration: none;
+}
+
+.body_bg {
+  background-color: #1e1d1b;
+}
+
+.main_bg {
+  background-color: #FFA12D;
+}
+
+.sub_bg {
+  background-color: #45433e;
+}
+
+.second_bg {
+  background-color: #1e1d1b;
+}
+
+.default_bg {
+  background-color: #FFA12D;
+  background-image: url("../images/new-bg_image.png");
+  background-size: 100% 50%;
+  background-position: center right;
+  background-repeat: no-repeat;
+}
+
+.default_page {
+  position: relative;
+  width: 100%;
+  background-color: #141414;
+  background-image: url('https://www.truthbetkub19.com/');
+}
+
+.default_content {}
+
+.default_bg_1 {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background-color: #141414;
+  background-image: url('https://www.truthbetkub19.com/');
+}
+
+.default_bg_2 {
+  position: absolute;
+  top: 300px;
+  width: 100%;
+  height: 600px;
+  background-color: #141414;
+  background-image: url('https://www.truthbetkub19.com/');
+}
+
+.default_bg_3 {
+  position: absolute;
+  top: 900px;
+  width: 100%;
+  height: 100%;
+  background-color: #141414;
+  background-image: url('https://www.truthbetkub19.com/');
+}
+
+.default_bg_1,
+.default_bg_3 {
+  height: 300px;
+}
+
+.default_page_content {
+  min-height: 1200px;
+}
+
+.default_card_bg {
+  border-color: #FFBF2B;
+}
+
+.default_card_bg_header {
+  background-image: linear-gradient(#FFA12D, #FFBF2B);
+  color: #FFF;
+}
+
+.default_card_bg_header a {
+  color: #000000;
+}
+
+.default_card_bg_content {
+  background-color: #0a0a0a;
+  background-image: url('https://www.truthbetkub19.com/');
+  color: #fff8d4;
+}
+
+.default_card_bg_footer {
+  background-color: #7a7a7a;
+  background-image: url('https://www.truthbetkub19.com/');
+  /* color: ; */
+}
+
+.top_style {
+  background-color: #0f0f0c;
+  background-image: url('https://www.truthbetkub19.com/');
+  /* color: ; */
+}
+
+.footer_style {
+  background-color: #0a0a0a;
+  background-image: url("../images/bg26.jpg");
+  /* color: ; */
+}
+
+.copyright_style {
+  background-color: #0a0a0a;
+  background-image: url("../images/bg17.jpg");
+  color: #fff8d4;
+}
+
+.bg_home_style_1 {
+  background-color: #141414;
+  background-image: url("../images/bg2.jpg");
+  color: #fff8d4;
+}
+
+.bg_home_style_2 {
+  background-color: #141414;
+  background-image: url('https://www.truthbetkub19.com/');
+  color: #fff8d4;
+}
+
+.bg_home_style_3 {
+  background-color: #141414;
+  background-image: url("../images/bg21.jpg");
+  color: #fff8d4;
+}
+
+.bg_home_style_4 {
+  background-color: #141414;
+  background-image: url('https://www.truthbetkub19.com/');
+  color: #FFA12D;
+}
+
+.bg_home_style_5 {
+  background-color: #141414;
+  background-image: url('https://www.truthbetkub19.com/');
+  color: #fff8d4;
+}
+
+.bg_home_style_6 {
+  background-color: #141414;
+  background-image: url("../images/bg24.jpg");
+  color: #fff8d4;
+}
+
+.btn-register {
+  background-color: #ffc107;
+  color: #24231d;
+  font-size: 15px;
+}
+
+.btn-join {
+  background-color: #f0f0f0;
+  color: #24231d;
+  font-size: 15px;
+}
+
+.hr_normal {
+  border-color: #FFA12D;
+}
+
+.hr_second {
+  border-color: #45433e;
+}
+
+#Top-Menu {
+  font-size: 16px;
+}
+
+#Main-Menu {
+  background-image: linear-gradient(#242424, #000000);
+  color: #FFA12D;
+  font-size: 16px;
+}
+
+#Main-Menu a {
+  color: #FFA12D;
+}
+
+#Main-Menu a:hover {
+  color: #ffffff;
+}
+
+#Main-Menu a:visit {
+  color: #e0e0e0;
+}
+
+.topic-main {
+  color: #FFA12D;
+  font-size: 20px;
+}
+
+.text-main {
+  color: #FFA12D;
+}
+
+.button_custom_1 {
+  background-color: #ffc107;
+  color: #101214;
+  box-shadow: -5px 5px #473500;
+  border-color: #fffbfb24;
+}
+
+.button_custom_2 {
+  background-color: #272727;
+  color: #FFA12D;
+  box-shadow: -5px 5px #1f1f1f;
+  border-color: #fffbfb24;
+  border-radius: 10px;
+}
+
+.button_custom_3 {
+  /* background-color: ; */
+  /* color: ; */
+  box-shadow: -5px 5px;
+  border-color: #fffbfb24;
+  border-radius: 10px;
+}
+
+#Welcome-Slide {
+  max-width: 700px;
+  max-height: 715px;
+  overflow: hidden;
+}
+
+#Welcome-Text {
+  flex: 470;
+  max-width: 470px;
+  min-height: 400px;
+}
+
+#welcomeBox {
+  background-image: url("../images/hauy.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+
+#welcomeHeader {
+  font-size: 34px;
+  color: #fff8d4
+}
+
+#welcomeTitle {
+  font-size: 100px;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+  color: #FFA12D
+}
+
+#welcomeDesc {
+  font-size: 28px;
+  color: #fff8d4
+}
+
+#welcomeButton {
+  font-size: 23px;
+}
+
+#welcomeButton .btn {
+  font-size: 23px;
+  padding: 10px 30px;
+  border-radius: 10px;
+  text-shadow: 2px 2px 5px #141414;
+}
+
+@media only screen and (max-width: 768px) {
+
+  #Welcome-Text {
+    max-width: 1024px;
+    min-height: 350px;
+  }
+
+  #welcomeBox {
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+
+  #welcomeHeader {
+    font-size: 30px;
+  }
+
+  #welcomeTitle {
+    font-size: 80px;
+  }
+
+  #welcomeDesc {
+    font-size: 24px;
+  }
+
+  #welcomeButton {}
+
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+  width: 5%;
+}
+
+#Huay-Home-Box-1 {
+  position: relative;
+  padding-bottom: 30px;
+  /* color: ; */
+}
+
+#Huay-Home-Box-1 .huay_home_box_header {
+  background-color: #38372d;
+}
+
+#Huay-Home-Box-1 .huay_home_box_content {
+  background-color: #24231d;
+}
+
+#Huay-Home-Box-1 .huay_home_box_button {
+  background-color: #38372d;
+  color: #ffffff;
+  box-shadow: -5px 5px #24231d;
+}
+
+#Huay-Home-Box-1 .huay_home_box_button:hover {
+  color: #FFA12D;
+}
+
+#Huay-Home-Box-2 {
+  position: relative;
+  padding-bottom: 30px;
+  /* color: หวยหุ้นไทยเปิด 4 รอบ (ต่อวัน) ให้ราคาจ่ายบาทละ 750 บาท; */
+}
+
+#Huay-Home-Box-2 .huay_home_box_header {
+  background-color: #969696;
+}
+
+#Huay-Home-Box-2 .huay_home_box_content {
+  background-color: #6b6b6b;
+}
+
+#Huay-Home-Box-2 .huay_home_box_button {
+  background-color: #969696;
+  color: #ffffff;
+  box-shadow: -5px 5px #6b6b6b;
+}
+
+#Huay-Home-Box-2 .huay_home_box_button:hover {
+  color: #FFA12D;
+}
+
+#Huay-Home-Box-3 {
+  position: relative;
+  padding-bottom: 30px;
+  /* color: มีมากกว่า 20 รายการ ให้ราคาจ่ายบาทละ 750 บาท; */
+}
+
+#Huay-Home-Box-3 .huay_home_box_header {
+  background-color: #c2a45d;
+}
+
+#Huay-Home-Box-3 .huay_home_box_content {
+  background-color: #ad8d42;
+}
+
+#Huay-Home-Box-3 .huay_home_box_button {
+  background-color: #c2a45d;
+  color: #ffffff;
+  box-shadow: -5px 5px #ad8d42;
+}
+
+#Huay-Home-Box-3 .huay_home_box_button:hover {
+  color: #FFA12D;
+}
+
+#Huay-Home-Box-4 {
+  position: relative;
+  padding-bottom: 30px;
+  /* color: เปิดแทงผลวันละ 88 รอบ (ต่อวัน) ให้ราคาจ่ายบาทละ 750 บาท; */
+}
+
+#Huay-Home-Box-4 .huay_home_box_header {
+  background-color: #3b3b3b;
+}
+
+#Huay-Home-Box-4 .huay_home_box_content {
+  background-color: #2b2b2b;
+}
+
+#Huay-Home-Box-4 .huay_home_box_button {
+  background-color: #3b3b3b;
+  color: #ffffff;
+  box-shadow: -5px 5px #2b2b2b;
+}
+
+#Huay-Home-Box-4 .huay_home_box_button:hover {
+  color: #FFA12D;
+}
+
+#Huay-Home-List {
+  border-radius: 5px;
+  background-color: #25251d;
+  color: #e2e1dd;
+}
+
+.lotto_list {
+  background-image: url("../images/huay_icon3.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  font-size: 16px;
+  padding-left: 40px;
+  color: #e2e1dd;
+}
+
+.border-huay-hline {
+  border-color: #1d1c18 !important;
+}
+
+.accordion .card {
+  border: none;
+  border-radius: 0;
+}
+
+.accordion .card .card-header {
+  background-image: linear-gradient(#0f0f0c, #0f0f0c);
+  color: #FFA12D;
+  font-size: 18px;
+}
+
+.accordion .card .card-body {
+  background-color: #24231d;
+  color: #fff8d4;
+}
+
+.news_recent:hover {}
+
+.news_recent_title {
+  font-size: 17px;
+  color: #FFA12D;
+}
+
+.news_recent_intro {
+  font-size: 15px;
+  color: #fff8d4;
+}
+
+#How-To-Join-Header {
+  font-size: 40px;
+  border-bottom: 3px solid #050505;
+}
+
+#How-To-Join-Sub-Header {
+  font-size: 20px;
+  color: #d1b268;
+  background-color: #050505;
+  border-radius: 5px;
+}
+
+#How-To-Join-Detail {
+  font-size: 16px;
+  border-radius: 5px;
+  color: #fff8d4;
+  background-color: #24231d;
+}
+
+.footer_content {
+  font-size: 16px;
+}
+
+footer {
+  font-size: 17px;
+}
+
+/* Fix */
+.table {
+  color: #fffbe5;
+}
+
+.page-item .page-link {
+  background-color: #FFA12D;
+  color: #fffbe5;
+}
+
+code {
+  color: inherit;
+}
+
+.page-item .active {
+  background-color: #45433e;
+  color: #fffbe5;
+}
+
+#return-to-top {
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.7);
+  width: 50px;
+  height: 50px;
+  display: block;
+  text-decoration: none;
+  -webkit-border-radius: 35px;
+  -moz-border-radius: 35px;
+  border-radius: 35px;
+  display: none;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+#return-to-top i {
+  color: #fff;
+  margin: 0;
+  position: relative;
+  left: 16px;
+  top: 13px;
+  font-size: 19px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+#return-to-top:hover {
+  background: rgba(0, 0, 0, 0.9);
+}
+
+#return-to-top:hover i {
+  color: #fff;
+  top: 5px;
+}
+
+#return-to-bottom {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.7);
+  width: 50px;
+  height: 50px;
+  display: block;
+  text-decoration: none;
+  -webkit-border-radius: 35px;
+  -moz-border-radius: 35px;
+  border-radius: 35px;
+  display: none;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+#return-to-bottom i {
+  color: #fff;
+  margin: 0;
+  position: relative;
+  left: 16px;
+  top: 13px;
+  font-size: 19px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+#return-to-bottom:hover {
+  background: rgba(0, 0, 0, 0.9);
+}
+
+#return-to-bottom:hover i {
+  color: #fff;
+  top: 5px;
+}

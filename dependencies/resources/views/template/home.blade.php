@@ -33,26 +33,88 @@
         <div class="row mb-4">
           <div class="col-12 col-md-6 mb-4 mb-md-0">
             <div id="Huay-Home-Box-1">
-              <div class="huay_home_box_header">หวยรัฐบาล</div>
+              <div class="huay_home_box_header">บอล</div>
               <div class="huay_home_box_content">
-                <p>หวยรัฐบาล ปิดรับแทง 15:30 น. <br>
-                  ให้ราคาจ่ายบาทละ 900 บาท</p>
-                <a href="/lotto/lotto" target="_blank">
-                  <img src="{{ asset('/front-ends-assets/images/a6.jpg')}}" class="img-fluid">
-                </a>
+                <p>ราคาจ่าย XXX บาท</p>
+                <div class="fixed-img">
+                  <a href="/lotto/stockthai" target="_blank">
+                    <img src="{{ asset('/front-ends-assets/images/football.jpg')}}" class="img-fluid">
+                  </a>
+                </div>
               </div>
               <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
             </div>
           </div>
           <div class="col-12 col-md-6">
             <div id="Huay-Home-Box-2">
-              <div class="huay_home_box_header">หวยหุ้นไทย</div>
+              <div class="huay_home_box_header">บาคาร่า</div>
+              <div class="huay_home_box_content text-center">
+                <p>ราคาจ่าย XXX บาท</p>
+                <div class="fixed-img">
+                  <a href="/lotto/stockthai" target="_blank">
+                    <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
+                  </a>
+                </div>
+              </div>
+              <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
+            </div>
+          </div>
+        </div>
+        <div class="row mb-4">
+          <div class="col-12 col-md-6 mb-4 mb-xl-0">
+            <div id="Huay-Home-Box-3">
+              <div class="huay_home_box_header">บาคาร่า (ประกันภัย)</div>
               <div class="huay_home_box_content">
-                <p>หวยหุ้นไทยเปิด 4 รอบ (ต่อวัน) <br>
-                  ให้ราคาจ่ายบาทละ 750 บาท</p>
-                <a href="/lotto/stockthai" target="_blank">
-                  <img src="{{ asset('/front-ends-assets/images/a8.jpg')}}" class="img-fluid">
-                </a>
+                <p>ราคาจ่าย XXX บาท</p>
+                <div class="fixed-img">
+                  <a href="/lotto/stockthai" target="_blank">
+                    <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
+                  </a>
+                </div>
+              </div>
+              <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
+            </div>
+          </div>
+          <div class="col-12 col-md-6">
+            <div id="Huay-Home-Box-4">
+              <div class="huay_home_box_header">บาคาร่า (ไม่มีคอมมิชชั่น)</div>
+              <div class="huay_home_box_content">
+                <p>ราคาจ่าย XXX บาท</p>
+                <div class="fixed-img">
+                  <a href="/lotto/stockthai" target="_blank">
+                    <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
+                  </a>
+                </div>
+              </div>
+              <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
+            </div>
+          </div>
+        </div>
+        <div class="row mb-4">
+          <div class="col-12 col-md-6 mb-4 mb-md-0">
+            <div id="Huay-Home-Box-1">
+              <div class="huay_home_box_header">เสือ - มังกร</div>
+              <div class="huay_home_box_content">
+                <p>ราคาจ่าย XXX บาท</p>
+                <div class="fixed-img">
+                  <a href="/lotto/stockthai" target="_blank">
+                    <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
+                  </a>
+                </div>
+              </div>
+              <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
+            </div>
+          </div>
+          <div class="col-12 col-md-6">
+            <div id="Huay-Home-Box-2">
+              <div class="huay_home_box_header">ชิคโบ</div>
+              <div class="huay_home_box_content text-center">
+                <p>ราคาจ่าย XXX บาท</p>
+                <div class="fixed-img">
+                  <a href="/lotto/stockthai" target="_blank">
+                    <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
+                  </a>
+                </div>
               </div>
               <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
             </div>
@@ -61,24 +123,28 @@
         <div class="row">
           <div class="col-12 col-md-6 mb-4 mb-xl-0">
             <div id="Huay-Home-Box-3">
-              <div class="huay_home_box_header">หวยหุ้นต่างประเทศ</div>
+              <div class="huay_home_box_header">รูเล็ต</div>
               <div class="huay_home_box_content">
-                <p>มีมากกว่า 20 รายการ<br>
-                  ให้ราคาจ่ายบาทละ 750 บาท</p>
-                <img src="{{ asset('/front-ends-assets/images/a7.jpg')}}" class="img-fluid">
+                <p>ราคาจ่าย XXX บาท</p>
+                <div class="fixed-img">
+                  <a href="/lotto/stockthai" target="_blank">
+                    <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
+                  </a>
+                </div>
               </div>
               <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
             </div>
           </div>
           <div class="col-12 col-md-6">
             <div id="Huay-Home-Box-4">
-              <div class="huay_home_box_header">หวยยี่กี</div>
+              <div class="huay_home_box_header">คีโน่</div>
               <div class="huay_home_box_content">
-                <p>เปิดแทงผลวันละ 88 รอบ (ต่อวัน)<br>
-                  ให้ราคาจ่ายบาทละ 750 บาท</p>
-                <a href="/lotto/yiki" target="_blank">
-                  <img src="{{ asset('/front-ends-assets/images/a9.jpg')}}" class="img-fluid">
-                </a>
+                <p>ราคาจ่าย XXX บาท</p>
+                <div class="fixed-img">
+                  <a href="/lotto/stockthai" target="_blank">
+                    <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
+                  </a>
+                </div>
               </div>
               <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
             </div>

@@ -597,3 +597,14 @@ code {
   color: #fff;
   top: 5px;
 }
+.fixed-img {
+  width: 375px;
+  height: 100px;
+  overflow: hidden;
+  margin: 0 auto;
+  position: relative;
+}
+.fixed-img img {
+  object-fit: contain;
+  max-width: 100%;
+}

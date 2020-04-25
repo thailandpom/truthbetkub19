@@ -37,7 +37,7 @@
             <div id="welcomeTitle" class="text-main animated fadeInRightBig">10,000</div>
             <div id="welcomeDesc" class="animated fadeInUp mb-5">บาท</div>
             <div id="welcomeButton">
-              <a href="https://www.jetsadabet.com/register/truthbetkub19" target="_blank"
+              <a href="https://truthbet.com/register/truthbetkub19" target="_blank"
                 class="btn button_custom_1 animated zoomIn delay-1s">สมัครสมาชิก</a>
             </div>
           </div>

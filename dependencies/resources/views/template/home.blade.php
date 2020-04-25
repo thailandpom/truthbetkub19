@@ -37,12 +37,12 @@
               <div class="huay_home_box_content">
                 <p>ราคาจ่าย XXX บาท</p>
                 <div class="fixed-img">
-                  <a href="/lotto/stockthai" target="_blank">
+                  <a href="/" target="_blank">
                     <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
                   </a>
                 </div>
               </div>
-              <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
+              <a href="https://truthbet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
             </div>
           </div>
           <div class="col-12 col-md-6">
@@ -51,12 +51,12 @@
               <div class="huay_home_box_content text-center">
                 <p>ราคาจ่าย XXX บาท</p>
                 <div class="fixed-img">
-                  <a href="/lotto/stockthai" target="_blank">
+                  <a href="/" target="_blank">
                     <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
                   </a>
                 </div>
               </div>
-              <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
+              <a href="https://truthbet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
             </div>
           </div>
         </div>
@@ -67,12 +67,12 @@
               <div class="huay_home_box_content">
                 <p>ราคาจ่าย XXX บาท</p>
                 <div class="fixed-img">
-                  <a href="/lotto/stockthai" target="_blank">
+                  <a href="/" target="_blank">
                     <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
                   </a>
                 </div>
               </div>
-              <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
+              <a href="https://truthbet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
             </div>
           </div>
           <div class="col-12 col-md-6">
@@ -81,12 +81,12 @@
               <div class="huay_home_box_content">
                 <p>ราคาจ่าย XXX บาท</p>
                 <div class="fixed-img">
-                  <a href="/lotto/stockthai" target="_blank">
+                  <a href="/" target="_blank">
                     <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
                   </a>
                 </div>
               </div>
-              <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
+              <a href="https://truthbet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
             </div>
           </div>
         </div>
@@ -97,12 +97,12 @@
               <div class="huay_home_box_content">
                 <p>ราคาจ่าย XXX บาท</p>
                 <div class="fixed-img">
-                  <a href="/lotto/stockthai" target="_blank">
+                  <a href="/" target="_blank">
                     <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
                   </a>
                 </div>
               </div>
-              <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
+              <a href="https://truthbet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
             </div>
           </div>
           <div class="col-12 col-md-6">
@@ -111,12 +111,12 @@
               <div class="huay_home_box_content text-center">
                 <p>ราคาจ่าย XXX บาท</p>
                 <div class="fixed-img">
-                  <a href="/lotto/stockthai" target="_blank">
+                  <a href="/" target="_blank">
                     <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
                   </a>
                 </div>
               </div>
-              <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
+              <a href="https://truthbet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
             </div>
           </div>
         </div>
@@ -127,12 +127,12 @@
               <div class="huay_home_box_content">
                 <p>ราคาจ่าย XXX บาท</p>
                 <div class="fixed-img">
-                  <a href="/lotto/stockthai" target="_blank">
+                  <a href="/" target="_blank">
                     <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
                   </a>
                 </div>
               </div>
-              <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
+              <a href="https://truthbet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
             </div>
           </div>
           <div class="col-12 col-md-6">
@@ -141,12 +141,12 @@
               <div class="huay_home_box_content">
                 <p>ราคาจ่าย XXX บาท</p>
                 <div class="fixed-img">
-                  <a href="/lotto/stockthai" target="_blank">
+                  <a href="/" target="_blank">
                     <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
                   </a>
                 </div>
               </div>
-              <a href="https://www.jetsadabet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
+              <a href="https://truthbet.com/login" target="_blank" class="huay_home_box_button">เข้าเล่นเกมส์</a>
             </div>
           </div>
         </div>

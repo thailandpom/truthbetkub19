@@ -34,7 +34,7 @@
           <p style="text-align: left;">โทร: 0928968928, 0656566789<br>Line ID: <span
               style="color: #FFBF2B;">@truthbetkub19</span><br>Email. truthbetkub19@gmail.com&nbsp;</p>
           <p>&nbsp;</p>
-          <p style="text-align: center;"><a href="https://www.jetsadabet.com/register/truthbetkub19" target="_blank"
+          <p style="text-align: center;"><a href="https://truthbet.com/register/truthbetkub19" target="_blank"
               rel="noopener"><img class="img-fluid rounded mx-auto d-block" style="float: left;"
                 src="{{ asset('/front-ends-assets/images/uCAOBbotton_regis.png')}}"></a></p>
           <p style="text-align: center;">&nbsp;</p>

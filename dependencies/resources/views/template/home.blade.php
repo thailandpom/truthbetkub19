@@ -38,7 +38,7 @@
                 <p>ราคาจ่าย XXX บาท</p>
                 <div class="fixed-img">
                   <a href="/lotto/stockthai" target="_blank">
-                    <img src="{{ asset('/front-ends-assets/images/football.jpg')}}" class="img-fluid">
+                    <img src="{{ asset('/front-ends-assets/images/casino-baccarat.jpg')}}" class="img-fluid">
                   </a>
                 </div>
               </div>

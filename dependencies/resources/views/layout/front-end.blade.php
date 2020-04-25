@@ -3,14 +3,14 @@
     <meta charset="utf-8">
     <meta http-equiv="Cache-control" content="public">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="jetsadabet.com เจษฏาเบท.คอม เจษฏาเบทดอทคอม เว็บแทงหวยออนไลน์ เว็บแทงหวย หวยรัฐบาล หวยหุ้น หวยยี่กี่ ให้ราคาการจ่ายที่สูงกว่าใคร ทุกการเดิมพันจึงไม่มีส่วนลด% แทงได้เยอะ ไม่มีเลขอั้น ไม่มีเลขเต็ม บริการปรับฝากอัตโนมัติ truthbetkub19.com">
-    <meta name="keywords" content="สมัครหวยเจต, เว็บหวยเจต, แทงหวยเจต,หวยออนไลน์, เว็บแทงหวยออนไลน์, ซื้อหวยหุ้นออนไลน์, ซื้อหวยเว็บไหนดี, เว็บหวยที่จ่ายเยอะ, แทงหวย, แทงหวยออนไลน์, หวยยี่กี่, ซื้อหวย ซื้อหวยเว็บไหนดี, ซื้อหวยเวบไหนดี, รับซื้อหวย, แทงหวย, แทงหวยเว็บไหนดี">
+    <meta name="description" content="truthbetkub19.com">
+    <meta name="keywords" content="">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.truthbetkub19.com">
     <meta property="og:title" content="โปรโมชั่น สิทธิพิเศษ | truthbetkub19.com">
     <meta property="og:image" content="">
-    <meta property="og:description" content="โปรโมชั่น สิทธิพิเศษ truthbetkub19.com เจษฎา เว็บแทงหวยออนไลน์ เว็บแทงหวย หวยรัฐบาล หวยหุ้น หวยยี่กี่">
-    <title>truthbetkub19.com เป็นเว็บรับแทงหวยออนไลน์ที่มีคนเข้ามาเล่นมากที่สุด ด้วยระบบเทคโนโลยีที่ทันสมัย เหมาะกับมือถือหรือแทปเล็ตทุกชนิด เล่นง่าย แทงได้รวดเร็ว มีทีมงานมืออาชีพ ที่คอยดูแลท่านดั่ง VIP ตลอด 24 ชั่วโมง จึงเชื่อใจได้ว่าเรามีระบบที่มีคุณภาพระดับโลกแล้ว</title>
+    <meta property="og:description" content="โปรโมชั่น สิทธิพิเศษ truthbetkub19.com">
+    <title>truthbetkub19.com</title>
     @yield('seo')
     <link rel="shortcut icon" type="image/png" href="{{ asset('/front-ends-assets/images/logo.svg')}}">
     <link rel="stylesheet" href="{{ asset('/front-ends-assets/css/bootstrap.min.css')}}">

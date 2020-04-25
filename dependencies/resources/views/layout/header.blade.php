@@ -19,13 +19,13 @@
               <a class="nav-link" href="{{ route('index', 'home') }}">หน้าหลัก <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://www.jetsadabet.com/register/truthbetkub19" target="_blank">สมัครสมาชิก</a>
+              <a class="nav-link" href="https://truthbet.com/register/truthbetkub19" target="_blank">สมัครสมาชิก</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="{{ route('index', 'lotto') }}">วิธีสมัครสมาชิก</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://www.jetsadabet.com/login" target="_blank">เข้าเล่นเกมส์</a>
+              <a class="nav-link" href="https://truthbet.com/login" target="_blank">เข้าเล่นเกมส์</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="{{ route('index', 'betrate') }}">กติกา-การจ่าย</a>
@@ -59,7 +59,7 @@
               <td>
                 <marquee direction="left" width="100%">
                   <span class="text-main">
-                    ยินดีต้อนรับเข้าสู่</span> Jetsadabet เว็บกีฬา คาสิโนออนไลน์อันดับ 1 ของประเทศไทย ฝาก-โอน ภายใน 1 นาที
+                    ยินดีต้อนรับเข้าสู่</span> truthbetkub19.com เว็บกีฬา คาสิโนออนไลน์อันดับ 1 ของประเทศไทย ฝาก-โอน ภายใน 1 นาที
                   สามารถติดต่อได้ตลอด 24 ชม.
                 </marquee>
               </td>
@@ -68,8 +68,8 @@
         </table>
 
         <div class="col-12 col-lg-4 text-center text-lg-right">
-          <a href="https://www.jetsadabet.com/register/truthbetkub19" target="_blank" class="btn btn-register"><i
-              class="fas fa-user"></i> สมัครสมาชิก</a> <a href="https://www.jetsadabet.com/login" target="_blank"
+          <a href="https://truthbet.com/register/truthbetkub19" target="_blank" class="btn btn-register"><i
+              class="fas fa-user"></i> สมัครสมาชิก</a> <a href="https://truthbet.com/login" target="_blank"
             class="btn btn-join"><i class="fas fa-lock"></i> เข้าเล่นเกมส์</a>
         </div>
 
